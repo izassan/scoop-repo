@@ -1,0 +1,11 @@
+{
+    "version": "1.0",
+    "extract_dir": "",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/izassan/vim-build/releases/download/vim91-r01/vim91.zip",
+            "hash": "269126eb5383095e0f33082f34946d6c0bc67c988bf8666f96160fdff9d312a1"
+        }
+    },
+    "bin": "vim.exe"
+}
